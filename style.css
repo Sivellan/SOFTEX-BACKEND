@@ -1,0 +1,39 @@
+body {
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#tabela {
+    background-color: cornflowerblue;
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto;
+    font-weight: bold;
+    padding: 20px;
+}
+
+#button {
+    text-align: right;
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+}
+
+img {
+    max-width: 100px; /* Ajusta a largura da imagem */
+    margin-right: 10px;
+}
+
+button {
+    font-size: 18px; /* Ajusta o tamanho da fonte do botão */
+}
