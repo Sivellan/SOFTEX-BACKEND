@@ -20,6 +20,14 @@ body {
     padding: 20px;
 }
 
+#tabela_ficha {
+    background-color: rgb(5, 31, 80);
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto;
+    font-weight: bold;
+    padding: 20px;
+}
 #button {
     text-align: right;
     font-weight: bold;
