@@ -1,0 +1,18 @@
+{
+  "name": "api_restaurante",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon restaurante.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.2",
+    "nodemon": "^3.0.1"
+  }
+}

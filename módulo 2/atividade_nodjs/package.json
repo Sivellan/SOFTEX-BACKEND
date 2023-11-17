@@ -1,22 +1,11 @@
 {
   "name": "atividade_nodjs",
   "version": "1.0.0",
-  "description": "Codigo_votacao",
-  "main": "atividade_nodjs.js",
+  "description": "atividade usando nodejs",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Sivellan/SOFTEX-BACKEND.git"
-  },
-  "keywords": [
-    "atividadenodejs"
-  ],
   "author": "Fabio Sivellan",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Sivellan/SOFTEX-BACKEND/issues"
-  },
-  "homepage": "https://github.com/Sivellan/SOFTEX-BACKEND#readme"
+  "license": "ISC"
 }
